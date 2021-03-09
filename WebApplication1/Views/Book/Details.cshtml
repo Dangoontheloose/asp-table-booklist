@@ -1,0 +1,33 @@
+@model WebApplication1.Models.Book
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+<h2>Details"</h2>
+
+<h3>@Model.Title</h3>
+<div class="col-lg-4 col-md-6">
+    <img width="100%" src="/@Model.Cover" alt=""/>
+</div>
+<div class="col-lg-8 col-md-6">
+    <ul>
+        <li>
+            <strong>Author: </strong> @Model.Author
+        </li>
+        <li>
+            <strong>Publish Year: </strong> @Model.PublicYear
+        </li>
+        <li>
+            <strong> Price: </strong> @Model.Price
+        </li>
+        <li>
+            <strong> Summary: </strong> @Model.Summary
+        </li>
+    </ul>
+</div>
+
+<div>
+    @Html.ActionLink("Back to book list", "ListBooks")
+</div>

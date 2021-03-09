@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210309T010000Z
+DTEND:20210309T020000Z
+DTSTAMP:20210308T114435Z
+ORGANIZER;CN=thangvo.vjp@gmail.com:mailto:thangvo.vjp@gmail.com
+UID:687816jq5gajcs0hvg19cgrced@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=huytr0701@gmail.com;X-NUM-GUESTS=0:mailto:huytr0701@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=thangvo.vjp@gmail.com;X-NUM-GUESTS=0:mailto:thangvo.vjp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aduyng@gmail.com;X-NUM-GUESTS=0:mailto:aduyng@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1981153169
+CREATED:20210308T114432Z
+DESCRIPTION:Dear Duy\, Huy\n\nThắng gửi mtg request sáng mai\n\nSáng mai Th
+ ắng có việc bận nên không tham gia được nhé\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not 
+ edit this section of the description.\n\nThis event has a video call.\nJoin
+ : https://meet.google.com/ibv-xdga-nwf\n\nView your event at https://calend
+ ar.google.com/calendar/event?action=VIEW&eid=Njg3ODE2anE1Z2FqY3MwaHZnMTljZ3
+ JjZWQgaHV5dHIwNzAxQG0&tok=MjEjdGhhbmd2by52anBAZ21haWwuY29tODE2OWFmZmI4YWEyZ
+ DhlMDQzMjkyYjNjN2RmM2Q5OTNkNzU2MzhjYg&ctz=Asia%2FHo_Chi_Minh&hl=en&es=1.\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20210308T114433Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interview round 2 - Tester job
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
